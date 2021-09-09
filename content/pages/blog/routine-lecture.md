@@ -53,6 +53,7 @@ Autre astuce, n'attendez pas le soir pour vous mettre à lire : souvent les livr
 ## Se donner le temps de lire
 
 Une fois que vous avez choisi le moment propice à la lecture, il faut savoir combien de temps vous allez y accorder. Ne soyez pas trop exigeant avec vous-mêmes si vous n'êtes pas un grand lecteur. 1h c'est beaucoup trop long au début et ça pourrait vous décourager. Il vaut mieux commencer petit et allonger peu à peu la durée. 
+
 Néanmoins, la lecture demande à votre cerveau de se mettre dans un mode très spécifique qui peut prendre du temps à se mettre en place. Les premières dix minutes, on galère parce qu'il faut se rappeler de ce qui s'est passé avant, de tel ou tel personnage, on est distrait par des souvenirs de notre journée, bref, on n'est pas dans le livre. Il faut donc se laisser le temps d'être plus concentré. 
 
 C'est pour cela que je vous conseille de lire au moins 20 minutes, voire 30 minutes, afin de vous laisser le temps d'être dedans et d'accéder ensuite à une lecture plus fluide et plus agréable. Cette facilité de la lecture vous donnera alors envie de recommencer, alors que si vous vous arrêtez avant d'arriver à ce stade, vous allez forcément assimiler la lecture à une activité laborieuse et difficile.
