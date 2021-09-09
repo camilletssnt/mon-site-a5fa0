@@ -1,9 +1,7 @@
 ---
 title: Comment prendre des notes en cours
 excerpt: >-
-  Pour progresser et réussir son lycée, il faut mettre en place une routine de
-  travail dès le début de l'année. Je te propose d'organiser ta séance de
-  travail en 4 étapes.
+  Le premier challenge qu’on rencontre au lycée c’est d’être autonome dans sa prise de notes. Voici quelques conseils pour devenir efficace en cours et améliorer sa prise de notes. 
 date: '2021-09-05'
 thumb_image_alt: White desk lamp beside green plant
 image_alt: White desk lamp beside green plant
