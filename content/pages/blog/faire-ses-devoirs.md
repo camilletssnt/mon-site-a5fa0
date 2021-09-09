@@ -41,6 +41,8 @@ seo:
       relativeUrl: true
 layout: post
 ---
+
+
 Tes professeurs te le disent depuis le début de ta scolarité : pour progresser il faut travailler régulièrement et réviser un peu tous les jours. Mais voilà, ce n’est pas si évident, surtout quand on ne sait pas comment organiser sa séance de travail quotidienne pour qu’elle soit efficace et qu’elle nous permette d’avancer sur plusieurs fronts à la fois. Je te propose une routine de travail en 4 étapes, facile à mettre en place et à adapter à tes besoins.
 
 ## Commence par reprendre les cours de la journée pour améliorer tes notes
@@ -56,6 +58,7 @@ C'est le bon moment pour organiser ton temps de travail à la fois sur le court 
 Maintenant que tu as bien en tête les tâches importantes que tu dois faire pour le lendemain, il est temps de te mettre au travail !
 
 Je te conseille de commencer par ce qui est difficile. En effet, si tu te dis que tu vas faire ça plus tard, tu risques d’entrer dans le cercle vicieux de la procrastination car rien ne dit que tu seras suffisamment en forme après avoir travaillé pendant 30 min pour commencer un travail difficile (surtout si ce n’est pas urgent …)
+
 Par contre si tu es bloqué et que la frustration monte, écoute-toi et prends des pauses. Ca ne sert à rien de continuer dans la souffrance. Cinq minutes de pause c’est souvent largement suffisant pour se reconcentrer plus facilement et reprendre le travail. Et puis tu verras, si tu laisses le temps à ton cerveau de décompresser, tu seras moins bloqué et les solutions au problème viendront bien plus vite.
 
 Si tu as du mal à rester concentré, gère ton temps différemment : au lieu de travailler 2h d’affilée, alterne entre des périodes de concentration (pas plus de 25 minutes par exemple, ou même moins) et des pauses (5 à 10 minutes). Tu seras bien plus efficace car à chaque pause tu rempliras ta jauge de concentration. Les pauses sont un bon moyen de te motiver à travailler car elles font office de récompense !
@@ -71,3 +74,4 @@ Pour finir ta séance de travail le soir, je te conseille de te préparer pour l
 Je n'en ai pas encore parlé mais il est clair que tu ne peux pas faire tes devoirs ni réviser de manière efficace si tu es souvent interrompu et distrait. Choisis un lieu au calme qui te mettra dans une ambiance studieuse, avec le moins de tentations autour de toi (donc loin de tes jeux vidéos, de ton ordinateur et de ton téléphone). Si tu n'as pas trop le choix de ton espace de travail, fais en sorte qu'il soit bien rangé tout de même et trouve un moyen pour ne pas être perturbé (munis-toi d’un casque ou d’écouteurs et écoute de la musique sans parole par exemple).
 
 Pour terminer je voudrais insister sur un point : fais des pauses. Si tu sens la frustration montée, soit fais une tâche plus facile, soit fais cinq minutes de pause en allant te changer les idées (en te levant de ta chaise et en faisant quelques pas pour boire par exemple). C'est très important de t’aérer l'esprit et de te donner le temps de faire les choses. C'est seulement ainsi que tu seras efficace. Ton cerveau n'est pas une machine, il a besoin de temps et d’espace pour assimiler tous ces nouveaux savoirs.
+
