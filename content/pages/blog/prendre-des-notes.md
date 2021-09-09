@@ -56,6 +56,7 @@ Mais comment les choisir ? Quand on n'a pas l'habitude prendre des notes en auto
 - Il reformule plusieurs fois la même idée 
 - Cette notion est nouvelle ou difficile à comprendre pour vous.
 Attention, vous allez peut-être avoir tendance à croire que vous ne devez pas noter quelque chose, soit parce que sur le moment vous trouvez ça évident ou parce que, après tout, ce n'est qu'un exemple et pas une définition : méfiez-vous de votre paresse, elle pourrait vous jouer des tours le jour où vous devrez réviser ... 
+
 ### Comment noter ces informations rapidement 
 Vous pouvez aussi augmenter votre rythme d'écriture en utilisant des petites méthodes pour être plus rapide, comme les abréviations et les symboles. Le mieux est encore de se contenter dans un premier temps de n'écrire que les mots clés et de ne pas écrire de phrases complètes, c'est-à-dire d’éliminer dans vos phrases tous les mots qui ne contiennent pas d'informations participant au sens : c'est le cas des déterminants bien souvent. Evidemment, veillez à ce que votre cours reste compréhensible. 
 #### Utiliser des abréviations et des symboles
