@@ -1,9 +1,9 @@
 ---
 title: S'organiser pour réussir ses contrôles
 excerpt: >-
-  Pour progresser et réussir son lycée, il faut mettre en place une routine de
-  travail dès le début de l'année. Je te propose d'organiser ta séance de
-  travail en 4 étapes.
+  Pour réussir ses contrôles encore faut-il savoir s'organiser pour ne jamais
+  avoir à boucler ses révisions la veille au soir. Je vous donne une méthode
+  simple pour bien planifier vos révisions.
 date: '2021-09-05'
 thumb_image_alt: White desk lamp beside green plant
 image_alt: White desk lamp beside green plant
