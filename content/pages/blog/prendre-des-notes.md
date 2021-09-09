@@ -18,8 +18,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-        accumsan sapien blandit
+        Le premier challenge qu’on rencontre au lycée c’est d’être autonome dans sa prise de notes. Voici quelques conseils pour devenir efficace en cours et améliorer sa prise de notes. 
       keyName: property
     - name: 'og:image'
       value: images/post-6.jpg
