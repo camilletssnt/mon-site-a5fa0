@@ -36,7 +36,7 @@ export default class Post extends React.Component {
         const imageAlt = _.get(page, 'image_alt', '');
         const date = _.get(page, 'date');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
-        const formattedDate = moment(date).strftime('%A, %B %e, %Y');
+        const formattedDate = new Date(date).toLocaleString('fr-FR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
         const markdownContent = _.get(page, 'markdown_content');
         const postUrl = getPageUrl(page);
         const posts = _.orderBy(_.get(this.props, 'posts', []), 'date', 'desc');
@@ -71,14 +71,14 @@ export default class Post extends React.Component {
                     )}
                     <footer className="post__meta">
                         <div className="container container--md">
-                            Posted on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                            Posté le <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                         </div>
                     </footer>
                 </article>
                 {(postCount > 1) && (
                     <nav className="section section--posts">
                         <div className="container container--lg">
-                            <h2 className="section__title line-top">Read Next</h2>
+                            <h2 className="section__title line-top">À lire</h2>
                             {_.map(posts, (post, index) => (
                                 <React.Fragment key={index}>
                                     {this.renderPostNavLinks(post, index, posts, postCount, postUrl)}
