@@ -64,7 +64,7 @@ Nos habitudes sont très liées à un contexte. Notre cerveau repère les contex
 
 Je vous conseille de choisir un autre lieu que celui que vous utilisez pour faire vos devoirs afin que la lecture ne soit pas trop assimilée à une tâche rébarbative qu'on vous oblige à faire (même si pour l'instant vous avez fortement l'impression que c'est le cas). Faites en sorte que ce soit un lieu agréable et confortable dans lequel passer une demie heure est un peu comme une pause bien méritée. Pour que la lecture devienne une habitude, il faut au maximum l'associer à un environnement positif.
 
-## La Régularité : S'engager à suivre la même routine pendant 30 jours.
+## La Régularité : s'engager à suivre la même routine pendant 30 jours.
 
 Le plus important pour faire de la lecture une habitude, c'est de faire appel à votre autodiscipline. Au début, cela va vous demander beaucoup d'effort. C'est pourquoi je vous conseille de vous donner des objectifs de régularité et d'en faire un défi : lancez vous le défi de lire tous les jours pendant 30 jours d'affilée. Imprimez un calendrier sur lequel vous pourrez cocher chaque jour où vous avez tenu votre engagement. 
 L'autre solution, si vous avez des difficultés à le faire vraiment tous les jours, c'est de vous donner cette règle simple : jamais deux jours consécutifs sans l'avoir fait. Pour cela, vous pouvez aussi vous aider d'un calendrier. 
