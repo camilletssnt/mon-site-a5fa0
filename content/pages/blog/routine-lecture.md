@@ -72,6 +72,7 @@ L'autre solution, si vous avez des difficultés à le faire vraiment tous les jo
 Le calendrier permet de rendre visible votre progression et donc de vous encourager à continuer et à ne pas briser la chaîne des jours où vous avez réussi à maintenir votre nouvelle habitude. N'oubliez pas de prévoir une récompense pour vous féliciter si vous réussissez le défi, cela vous motivera ! 
 
 ## Chassez les distractions
+
 Le problème avec la lecture, surtout quand on n'a pas l'habitude de lire beaucoup, c'est qu'on est vite distrait par tout ce qui se passe autour de nous. Si vous le pouvez, isolez vous le plus possible des bruits qui pourraient vous gêner. Si cela n'est pas possible, je vous conseille d'écouter de la musique, mais sans parole, parce que les paroles de la musique pourraient interférer avec le contenu du livre et vous faire perdre le fil. Il vaut mieux aussi mettre son téléphone sur silencieux, voire en mode avion, pour ne pas être tenté par les notifications que vous allez recevoir. Je vous conseille de le mettre face contre table, ou même de le mettre dans une autre pièce. Si cela est trop extrême pour vous, l'autre solution est de l'utiliser comme un minuteur pour respecter la durée de lecture que vous vous êtes donnée, comme ça vous savez que quand il sonne vous aurez le droit de le consulter. Cela peut vous servir de récompense.
 
 ___
