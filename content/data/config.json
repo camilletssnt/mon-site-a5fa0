@@ -1,33 +1,36 @@
 {
-    "title": "Stackbit Agency Theme",
+    "title": "Camille Toussaint",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "green",
+    "accent_color": "red",
     "base_font": "fraunces",
     "header": {
-        "title": "Agency",
+        "title": "Camille Toussaint",
         "logo": "images/logo.svg",
-        "logo_alt": "Agency logo",
+        "logo_alt": "Camille Toussaint logo",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Accueil",
                 "url": "/",
                 "style": "link"
             },
             {
-                "label": "Work",
-                "url": "/portfolio/",
-                "style": "link"
+                "label": "Cours particuliers",
+                "url": "/cours-particuliers",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false
             },
             {
-                "label": "Journal",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "About",
+                "label": "Mon expérience",
                 "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
@@ -42,25 +45,20 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Youtube",
+                "url": "#",
                 "style": "icon",
-                "icon": "twitter",
-                "new_window": true
+                "icon": "youtube",
+                "new_window": false,
+                "no_follow": false
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "label": "Facebook",
+                "url": "#",
                 "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
+                "icon": "facebook",
+                "new_window": false,
+                "no_follow": false
             },
             {
                 "label": "LinkedIn",
