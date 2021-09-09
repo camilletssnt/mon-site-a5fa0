@@ -39,7 +39,7 @@ layout: post
 
 Quand vous étiez au collège, c'était simple : le professeur écrivait le cours au tableau ou il l'affichait, il vous disait quoi écrire et quand l'écrire. Il venait même parfois vérifier que vous aviez bien tout recopié comme il faut. Maintenant que vous êtes au lycée, c'est bien différent : les professeurs attendent de vous que vous preniez en note le cours de manière autonome. Et très vite, vous vous êtes rendus compte que ce n'était pas évident, surtout parce que c'est impossible d'écrire aussi vite que le professeur parle. Alors comment faire ? 
 
-## Pourquoi a-t-on besoin de prendre des notes&n? 
+## Pourquoi a-t-on besoin de prendre des notes&nbsp? 
 
 Pour prendre des notes de manière efficace, il faut toujours avoir cette question en tête et surtout avoir les bonnes réponses. Vous prenez en note le cours pour pouvoir le réviser plus tard quand votre mémoire vous fera défaut. C'est encore plus vrai quand vous avez un examen en fin d'année, car bien souvent, vos cours de septembre seront à réviser pour le mois de mai, et là, c'est sûr que vous ne pourrez plus vous fier à vos souvenirs. 
 
