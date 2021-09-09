@@ -1,9 +1,9 @@
 ---
 title: 5 conseils pour lire tous les jours
 excerpt: >-
-  Pour progresser et réussir son lycée, il faut mettre en place une routine de
-  travail dès le début de l'année. Je te propose d'organiser ta séance de
-  travail en 4 étapes.
+  Le vrai challenge pour les cours de français au lycée, c'est de réussir à lire
+  toutes les oeuvres en respectant les délais. Je vous donne 5 conseils pour
+  créer une routine de lecture facile à mettre en place dans votre quotidien.
 date: '2021-09-05'
 thumb_image_alt: White desk lamp beside green plant
 image_alt: White desk lamp beside green plant
