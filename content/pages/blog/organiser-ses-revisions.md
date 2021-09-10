@@ -40,6 +40,7 @@ seo:
       value: images/post-6.jpg
       relativeUrl: true
 layout: post
+subtitle: Méthodologie
 ---
 
 Réviser pour un contrôle peut s’avérer être une tâche ardue surtout si tu as gardé tout le travail à faire pour la dernière minute et qu’il ne te reste plus qu’une soirée pour te préparer. Comme te l’ont sûrement dit tous tes professeurs, pour réussir il faut réviser un peu tous les jours. Et mieux se préparer au contrôle c’est déjà mieux s’organiser. 
