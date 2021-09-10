@@ -8,8 +8,7 @@ sections:
       aux lycéens.
 
 
-      Si vous souhaitez plus d’informations, n’hésitez pas à me contacter en
-      utilisant [le formulaire de contact ](/contact)ou en m’envoyant un e-mail
+      Si vous souhaitez plus d’informations, n’hésitez pas à me contacter ou en m’envoyant un e-mail
       à cours@camille-toussaint.fr .
 
 
