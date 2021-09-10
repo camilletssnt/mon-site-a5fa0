@@ -40,6 +40,7 @@ seo:
       value: images/post-6.jpg
       relativeUrl: true
 layout: post
+subtitle: Méthodologie
 ---
 
 
