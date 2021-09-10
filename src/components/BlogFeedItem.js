@@ -28,7 +28,7 @@ export default class BlogFeedItem extends React.Component {
                     <h3 className="post-card__title"><Link href={postUrl}>{title}</Link></h3>
                     <div className="post-card__meta">
                         <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
-                        {subtitle && <p className="section__subtitle">{subtitle}</p>}
+                        
                     </div>
                 </header>
                 {excerpt && <p className="post-card__body">{excerpt}</p>}
