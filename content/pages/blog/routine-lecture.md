@@ -40,6 +40,7 @@ seo:
       value: images/post-6.jpg
       relativeUrl: true
 layout: post
+subtitle: Méthodologie
 ---
 
 Au lycée, vous devez lire des romans assez longs et exigeants et souvent on vous laisse peu de temps pour le faire. Le seul moyen de les lire à temps, vous le savez bien, c'est de lire un peu tous les jours. Mais comment faire pour tenir le rythme et s'imposer cette discipline ? Je vous donne quelques conseils simples pour mettre en place une routine facile à intégrer dans votre journée pour terminer le livre dans les temps.
