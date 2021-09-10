@@ -35,6 +35,7 @@ seo:
       value: images/post-6.jpg
       relativeUrl: true
 layout: post
+subtitle: Méthodologie
 ---
 
 Quand vous étiez au collège, c'était simple : le professeur écrivait le cours au tableau ou il l'affichait, il vous disait quoi écrire et quand l'écrire. Il venait même parfois vérifier que vous aviez bien tout recopié comme il faut. Maintenant que vous êtes au lycée, c'est bien différent : les professeurs attendent de vous que vous preniez en note le cours de manière autonome. Et très vite, vous vous êtes rendus compte que ce n'était pas évident, surtout parce que c'est impossible d'écrire aussi vite que le professeur parle. Alors comment faire ? 
