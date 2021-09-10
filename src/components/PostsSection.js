@@ -11,7 +11,7 @@ export default class PostsSection extends React.Component {
         const title = _.get(section, 'title');
         const subtitle = _.get(section, 'subtitle');
         const actions = _.get(section, 'actions');
-        const postsNumber = _.get(page, 'posts_number');
+        const postsNumber = _.get(page_section, 'posts_number');
         const colNumber = _.get(section, 'col_number', 'three');
         const posts = _.orderBy(_.get(this.props, 'posts', []), 'date', 'desc');
 
