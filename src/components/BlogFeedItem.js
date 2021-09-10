@@ -18,13 +18,7 @@ export default class BlogFeedItem extends React.Component {
         const postUrl = getPageUrl(post, { withPrefix: true });
 
         return (
-                            <header className="post-card__header">
-                    <h3 className="post-card__title"><Link href={postUrl}>{title}</Link></h3>
-                    <div className="post-card__meta">
-                        <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
-                        {subtitle && <p className="section__subtitle">{subtitle}</p>}
-                    </div>
-                </header>
+            
             <article className="cell post-card">
                 {thumbImage && (
                     <Link className="post-card__image" href={postUrl}>
