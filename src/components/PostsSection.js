@@ -20,7 +20,7 @@ export default class PostsSection extends React.Component {
                 <div className="container container--lg">
                     {title && <h2 className="section__title line-top">{title}</h2>}
                     {subtitle && <p className="section__subtitle">{subtitle}</p>}
-                    <div className={`grid post-feed {postpost-feed--col-${colNumber}`}>
+                    <div className={`grid post-feed {posts_number} post-feed--col-${colNumber}`}>
                         {_.map(posts, (post, index) => (
                             <BlogFeedItem key={index} post={post} />
                         ))}
