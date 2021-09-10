@@ -12,7 +12,7 @@ export default class BlogFeedItem extends React.Component {
         const thumbImageAlt = _.get(post, 'thumb_image_alt', '');
         const excerpt = _.get(post, 'excerpt');
         const date = _.get(post, 'date');
-        const subtitle = _.get(post, subtitle)
+        const subtitle = _.get(post, subtitle);
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = new Date(date).toLocaleString('fr-FR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
         const postUrl = getPageUrl(post, { withPrefix: true });
