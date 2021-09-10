@@ -15,13 +15,6 @@ sections:
         new_window: false
         no_follow: false
   - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    posts_number: 3
-    col_number: three
-    actions: []
-    type: posts_section
-  - section_id: lorem-ipsum
     title: Préparez-vous au bac en toute sérénité
     content: >
       Les deux années menant au bac de français peuvent être stressantes. Je
