@@ -24,7 +24,7 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     bg_color: none
-    type: cta_section
+    
   - type: cta_section
     section_id: cta
     title: Mon expérience
