@@ -25,7 +25,6 @@ sections:
     image_alt: Our team in the meeting room
   - section_id: lorem-ipsum
     title: Acquérir dès le lycée les habitudes d’un bon étudiant
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
