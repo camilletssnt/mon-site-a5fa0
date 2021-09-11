@@ -23,7 +23,7 @@ sections:
       Éveiller sa **curiosité** | Apprendre à **apprendre**
       Acquérir une culture de base pour **évoluer** dans le monde
     actions: []
-    image_alt: lorem-ipsum
+    image_alt:  mes-valeurs
     bg_color: none
   - type: cta_section
     section_id: cta
