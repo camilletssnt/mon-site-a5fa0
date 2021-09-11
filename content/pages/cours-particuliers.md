@@ -26,17 +26,9 @@ sections:
   - section_id: lorem-ipsum
     title: Acquérir dès le lycée les habitudes d’un bon étudiant
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Éveiller sa **curiosité** | Apprendre à **apprendre**
+      Acquérir une culture de base pour **évoluer** dans le monde
     type: content_section
 seo:
   title: Cours de français pour lycéens
