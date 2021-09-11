@@ -33,7 +33,7 @@ sections:
       Acquérir une culture de base pour **évoluer** dans le monde
     type: content_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Mon expérience
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
