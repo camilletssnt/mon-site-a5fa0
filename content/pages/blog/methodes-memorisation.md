@@ -2,7 +2,7 @@
 title: Mieux utiliser sa mémoire pour réviser
 excerpt: >-
   Pour réussir ses contrôles, il faut d'abord avoir bien mémoriser les concepts fondamentaux de son cours. Je te donne deux méthodes pour changer tes habitudes de travail et mieux utiliser ta mémoire. 
-date: '2021-09-05'
+date: '2021-09-11'
 thumb_image_alt: White desk lamp beside green plant
 image_alt: White desk lamp beside green plant
 seo:
@@ -37,6 +37,7 @@ seo:
       value: images/post-6.jpg
       relativeUrl: true
 layout: post
+subtitle: Méthodologie
 ---
 
 Tu attribues probablement tes notes un peu moyennes à ta mauvaise mémoire : même quand tu travailles pendant des heures, tu n’arrives pas à faire mieux, c’est bien la preuve qu’il n’y a rien qui rentre dans ta tête. La bonne nouvelle c’est que ce n’est pas un problème de capacité. Il y a de fortes chances que tu es les mêmes capacités de mémoire que la moyenne. Le problème ce n’est pas ta mémoire c’est comment tu l’utilises. Cela veut dire que pour progresser, et avoir des notes qui reflètent ton investissement en temps et en effort, il faut que tu changes tes méthodes de travail. Je te propose d’essayer deux méthodes de travail simples mais efficaces : se tester (retrieval practice) et se faire des pics de rappel espacés dans le temps (spaced-repetition). 
