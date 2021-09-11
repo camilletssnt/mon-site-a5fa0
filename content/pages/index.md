@@ -14,7 +14,8 @@ sections:
         icon: dribbble
         new_window: false
         no_follow: false
-  - type: cta_sectionsection_id: lorem-ipsum
+  - type: cta_section
+    section_id: lorem-ipsum
     title: |
       Acquérir dès le lycée 
       les habitudes d’un bon étudiant
