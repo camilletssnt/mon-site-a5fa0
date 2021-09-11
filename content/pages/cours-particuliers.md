@@ -15,11 +15,12 @@ sections:
       à être efficaces et autonomes.
 
 
-      Les cours particuliers se déroulent sur Zoom pour un tarif de 60 € de
-      l’heure (chèques emploi service (CESU) acceptés).
+      Les cours particuliers se déroulent sur Zoom pour un tarif de 50 € de
+      l’heure (chèques emploi service (CESU) acceptés). Le premier cours est
+      offert et sans engagement. 
 
 
-      N’hésitez pas à me contacter par e-mail (cours@camille-toussaint.fr). 
+      N’hésitez pas à me contacter par e-mail (cours@camille-toussaint.fr).
 
       Nous conviendrons d’un échange téléphonique pour parler de votre enfant.
     image_alt: Our team in the meeting room
