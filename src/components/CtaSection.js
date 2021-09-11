@@ -27,7 +27,7 @@ export default class CtaSection extends React.Component {
                             )}
                             <div className={classNames('section__content', { 'cell': image })}>
                                 {title && <h2 className="section__title">{title}</h2>}
-                                {}
+                                {JSON.stringify}
                                 {content && (
                                     <div className="section__body text-block">
                                         {markdownify(content)}
