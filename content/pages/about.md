@@ -27,7 +27,7 @@ sections:
     image_alt: Our team in the meeting room
 seo:
   title: Mon expérience
-  description: This is the about us page
+  description: Professeure agrégée de Lettres modernes, je propose des cours particuliers aux lycéens.
   extra:
     - name: 'og:type'
       value: website
