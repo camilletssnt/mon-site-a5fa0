@@ -32,6 +32,22 @@ sections:
       Éveiller sa **curiosité** | Apprendre à **apprendre**
       Acquérir une culture de base pour **évoluer** dans le monde
     type: content_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
 seo:
   title: Cours de français pour lycéens
   description: >-
