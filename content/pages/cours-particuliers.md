@@ -24,7 +24,7 @@ sections:
       Nous conviendrons d’un échange téléphonique pour parler de votre enfant.
     image_alt: Our team in the meeting room
 seo:
-  title: About Us
+  title: Cours de français pour lycéens
   description: This is the about us page
   extra:
     - name: 'og:type'
