@@ -30,7 +30,10 @@ sections:
     title: Mon expérience
     content: >
       Professeure agrégée de français, j’accompagne les lycéens en leur donnant
-      les ressources nécessaires pour réussir le bac de français.
+      les ressources nécessaires pour réussir le bac de français. 
+
+
+
 
       Je donne également des cours particuliers à distance.
     actions:
