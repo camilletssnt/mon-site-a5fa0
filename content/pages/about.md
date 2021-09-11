@@ -26,7 +26,7 @@ sections:
       particuliers.
     image_alt: Our team in the meeting room
 seo:
-  title: About Us
+  title: Mon expérience
   description: This is the about us page
   extra:
     - name: 'og:type'
