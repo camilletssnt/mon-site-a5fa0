@@ -15,7 +15,8 @@ sections:
         new_window: false
         no_follow: false
   - section_id: lorem-ipsum
-    title: Acquérir dès le lycée les habitudes d’un bon étudiant
+    title: Acquérir dès le lycée 
+    les habitudes d’un bon étudiant
     content: |
       Éveiller sa **curiosité** | Apprendre à **apprendre**
       Acquérir une culture de base pour **évoluer** dans le monde
