@@ -4,7 +4,8 @@ hide_title: false
 col_number: three
 seo:
   title: Blog
-  description: This is the journal page
+  description: |
+    Des conseils et des ressources pour réussir en français au lycée. 
   extra:
     - name: 'og:type'
       value: website
