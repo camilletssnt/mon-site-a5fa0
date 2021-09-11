@@ -15,7 +15,7 @@ sections:
         new_window: false
         no_follow: false
   - section_id: lorem-ipsum
-    title: Préparez-vous au bac en toute sérénité
+    title: "Acquérir dès le lycée\_les habitudes d’un bon étudiant"
     content: >
       Les deux années menant au bac de français peuvent être stressantes. Je
       vous propose des conseils et des ressources pour vous aider à vous
