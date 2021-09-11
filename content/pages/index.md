@@ -45,7 +45,7 @@ sections:
     bg_color: light
 layout: advanced
 seo:
-  title: 'Camille Toussaint '
+  title: Camille Toussaint | Cours de français pour lycéens
   description: >-
     J’aide les lycéens à réussir leur année de Seconde, de Première ou de
     Terminale en français (et en HLP).
