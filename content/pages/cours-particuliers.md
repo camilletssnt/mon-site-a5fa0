@@ -25,7 +25,9 @@ sections:
     image_alt: Our team in the meeting room
 seo:
   title: Cours de français pour lycéens
-  description: This is the about us page
+  description: >-
+    J'aide les lycéens à réussir leur année de Seconde, de Première ou de
+    Terminale en français (et en HLP). 
   extra:
     - name: 'og:type'
       value: website
