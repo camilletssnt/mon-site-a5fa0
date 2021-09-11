@@ -45,7 +45,7 @@ sections:
     bg_color: light
 layout: advanced
 seo:
-  title: ''
+  title: 'Camille Toussaint '
   description: ''
   robots: []
   extra: []
