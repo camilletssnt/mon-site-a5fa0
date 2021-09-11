@@ -4,7 +4,7 @@ excerpt: >-
   Pour réussir ses contrôles encore faut-il savoir s'organiser pour ne jamais
   avoir à boucler ses révisions la veille au soir. Je vous donne une méthode
   simple pour bien planifier vos révisions.
-date: '2021-09-05'
+date: '2021-09-11'
 thumb_image_alt: White desk lamp beside green plant
 image_alt: White desk lamp beside green plant
 seo:
