@@ -21,7 +21,7 @@ seo:
         Le premier challenge qu’on rencontre au lycée c’est d’être autonome dans sa prise de notes. Voici quelques conseils pour devenir efficace en cours et améliorer sa prise de notes. 
       keyName: property
     - name: 'og:image'
-      value: images/post-6.jpg
+      value: 
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -32,7 +32,7 @@ seo:
       value: >-
         Le premier challenge qu’on rencontre au lycée c’est d’être autonome dans sa prise de notes. Voici quelques conseils pour devenir efficace en cours et améliorer sa prise de notes. 
     - name: 'twitter:image'
-      value: images/post-6.jpg
+      value: 
       relativeUrl: true
 layout: post
 subtitle: Méthodologie
