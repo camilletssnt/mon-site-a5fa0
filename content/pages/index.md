@@ -15,7 +15,7 @@ sections:
         new_window: false
         no_follow: false
   - type: cta_section
-    section_id: lorem-ipsum
+    section_id: mes-valeurs
     title: |
       Acquérir dès le lycée 
       les habitudes d’un bon étudiant
