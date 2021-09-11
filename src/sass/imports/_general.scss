@@ -17,7 +17,7 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-*
+* {}
 
 @each $font, $stack in $fonts {
   $font-suffix: "#{$font}";
