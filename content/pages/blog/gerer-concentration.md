@@ -2,7 +2,7 @@
 title: Comment rester concentré pendant tes révisions
 excerpt: >-
   Pour augmenter ton efficacité quand tu révises, il faut que tu fasses en sorte d'être au maximum de ta concentration à chaque instant. Une manière toute simple de s'en assurer c'est de faire des pauses régulièrement pour laisser ton cerveau respirer. 
-date: '2021-09-05'
+date: '2021-09-11'
 thumb_image_alt: White desk lamp beside green plant
 image_alt: White desk lamp beside green plant
 seo:
