@@ -16,10 +16,9 @@ sections:
         no_follow: false
   - section_id: lorem-ipsum
     title: Acquérir dès le lycée les habitudes d’un bon étudiant
-    content: >
-      Les deux années menant au bac de français peuvent être stressantes. Je
-      vous propose des conseils et des ressources pour vous aider à vous
-      approprier le programme et maîtriser les épreuves écrites et orales.
+    content: |
+      Éveiller sa **curiosité** | Apprendre à **apprendre**
+      Acquérir une culture de base pour **évoluer** dans le monde
     actions: []
     image_alt: lorem-ipsum
     bg_color: none
