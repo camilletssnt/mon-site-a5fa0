@@ -25,7 +25,7 @@ seo:
         accumsan sapien blandit
       keyName: property
     - name: 'og:image'
-      value: images/post-6.jpg
+      value: 
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -37,7 +37,7 @@ seo:
         Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
         accumsan sapien blandit
     - name: 'twitter:image'
-      value: images/post-6.jpg
+      value: 
       relativeUrl: true
 layout: post
 subtitle: Méthodologie
