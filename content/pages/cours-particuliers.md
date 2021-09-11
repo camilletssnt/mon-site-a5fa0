@@ -24,7 +24,7 @@ sections:
       Nous conviendrons d’un échange téléphonique pour parler de votre enfant.
     image_alt: Our team in the meeting room
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Acquérir dès le lycée les habitudes d’un bon étudiant
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
