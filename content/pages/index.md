@@ -46,7 +46,9 @@ sections:
 layout: advanced
 seo:
   title: 'Camille Toussaint '
-  description: ''
+  description: >-
+    J’aide les lycéens à réussir leur année de Seconde, de Première ou de
+    Terminale en français (et en HLP).
   robots: []
   extra: []
 ---
