@@ -18,8 +18,6 @@ sections:
     title: Acquérir dès le lycée les habitudes d’un bon étudiant
     content: |
       Éveiller sa **curiosité** | Apprendre à **apprendre**
-
-
       Acquérir une culture de base pour **évoluer** dans le monde
     actions: []
     image_alt: lorem-ipsum
