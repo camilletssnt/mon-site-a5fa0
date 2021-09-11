@@ -1,5 +1,5 @@
 ---
-title: 'Camille Toussaint '
+title: Camille Toussaint | Cours de français pour lycéens
 hide_title: true
 sections:
   - type: hero_section
