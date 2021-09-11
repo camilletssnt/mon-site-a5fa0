@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: Progressez en français
     content: |
-      Des conseils et des ressources pour réussir ses années de lycée.
+      Des conseils et des ressources pour réussir.
     actions:
       - label: En savoir plus sur les cours particuliers
         url: /cours-particuliers
