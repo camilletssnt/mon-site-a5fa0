@@ -25,8 +25,8 @@ sections:
     image_alt: Our team in the meeting room
   - section_id: lorem-ipsum
     title: |
-    Acquérir dès le lycée 
-    les habitudes d’un bon étudiant
+      Acquérir dès le lycée 
+      les habitudes d’un bon étudiant
     image_alt: lorem-ipsum
     content: |
       Éveiller sa **curiosité** | Apprendre à **apprendre**
