@@ -17,7 +17,7 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-* {}
+* {white-space: pre-line;}
 
 @each $font, $stack in $fonts {
   $font-suffix: "#{$font}";
