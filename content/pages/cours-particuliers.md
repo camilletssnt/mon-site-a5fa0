@@ -34,23 +34,25 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: Cours de français pour lycéens
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: J'aide les lycéens à réussir leur année de Seconde, de Première ou de
+    Terminale en français (et en HLP). 
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: 
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Cours de français pour lycéens
     - name: 'twitter:description'
-      value: This is the about us page
+      value: J'aide les lycéens à réussir leur année de Seconde, de Première ou de
+    Terminale en français (et en HLP). 
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: 
       relativeUrl: true
 layout: advanced
 ---
