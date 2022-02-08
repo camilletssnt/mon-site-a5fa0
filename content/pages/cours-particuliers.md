@@ -48,8 +48,7 @@ seo:
     - name: 'twitter:title'
       value: Cours de français pour lycéens
     - name: 'twitter:description'
-      value: J'aide les lycéens à réussir leur année de Seconde, de Première ou de
-    Terminale en français (et en HLP). 
+      value: J'aide les lycéens à réussir leur année de Seconde, de Première ou de Terminale en français (et en HLP). 
     - name: 'twitter:image'
       value: 
       relativeUrl: true
