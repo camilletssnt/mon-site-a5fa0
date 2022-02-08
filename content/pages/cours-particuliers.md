@@ -37,8 +37,7 @@ seo:
       value: Cours de français pour lycéens
       keyName: property
     - name: 'og:description'
-      value: J'aide les lycéens à réussir leur année de Seconde, de Première ou de
-             Terminale en français (et en HLP). 
+      value: J'aide les lycéens à réussir leur année de Seconde, de Première ou de Terminale en français (et en HLP). 
       keyName: property
     - name: 'og:image'
       value: 
