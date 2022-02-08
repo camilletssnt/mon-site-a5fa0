@@ -1,5 +1,5 @@
 ---
-title: Cours particuliers
+title: Des cours particuliers pour l'aider à réussir son bac de français
 hide_title: false
 sections:
   - type: content_section
